@@ -1,0 +1,27 @@
+c:\users\lazar\documents\visual studio 2015\Projects\VeterinariaMenu\VeterinariaMenu\bin\Debug\VeterinariaMenu.exe.config
+c:\users\lazar\documents\visual studio 2015\Projects\VeterinariaMenu\VeterinariaMenu\bin\Debug\VeterinariaMenu.exe
+c:\users\lazar\documents\visual studio 2015\Projects\VeterinariaMenu\VeterinariaMenu\bin\Debug\VeterinariaMenu.pdb
+c:\users\lazar\documents\visual studio 2015\Projects\VeterinariaMenu\VeterinariaMenu\obj\Debug\VeterinariaMenu.csprojResolveAssemblyReference.cache
+c:\users\lazar\documents\visual studio 2015\Projects\VeterinariaMenu\VeterinariaMenu\obj\Debug\VeterinariaMenu.Form1.resources
+c:\users\lazar\documents\visual studio 2015\Projects\VeterinariaMenu\VeterinariaMenu\obj\Debug\VeterinariaMenu.Properties.Resources.resources
+c:\users\lazar\documents\visual studio 2015\Projects\VeterinariaMenu\VeterinariaMenu\obj\Debug\VeterinariaMenu.csproj.GenerateResource.Cache
+c:\users\lazar\documents\visual studio 2015\Projects\VeterinariaMenu\VeterinariaMenu\obj\Debug\VeterinariaMenu.exe
+c:\users\lazar\documents\visual studio 2015\Projects\VeterinariaMenu\VeterinariaMenu\obj\Debug\VeterinariaMenu.pdb
+c:\users\lazar\documents\visual studio 2015\Projects\VeterinariaMenu\VeterinariaMenu\obj\Debug\VeterinariaMenu.Mascota.resources
+c:\users\lazar\documents\visual studio 2015\Projects\VeterinariaMenu\VeterinariaMenu\obj\Debug\VeterinariaMenu.Veterinario.resources
+c:\users\lazar\documents\visual studio 2015\Projects\VeterinariaMenu\VeterinariaMenu\obj\Debug\VeterinariaMenu.Empleados.resources
+C:\Users\lazar\Documents\Visual Studio 2015\Projects\VeterinariaMenu\VeterinariaMenu\obj\Debug\VeterinariaMenu.Turnos.resources
+C:\Users\marcu\Desktop\VeterinariaMenu\VeterinariaMenu\bin\Debug\VeterinariaMenu.exe.config
+C:\Users\marcu\Desktop\VeterinariaMenu\VeterinariaMenu\bin\Debug\VeterinariaMenu.exe
+C:\Users\marcu\Desktop\VeterinariaMenu\VeterinariaMenu\bin\Debug\VeterinariaMenu.pdb
+C:\Users\marcu\Desktop\VeterinariaMenu\VeterinariaMenu\obj\Debug\VeterinariaMenu.csprojAssemblyReference.cache
+C:\Users\marcu\Desktop\VeterinariaMenu\VeterinariaMenu\obj\Debug\VeterinariaMenu.Empleados.resources
+C:\Users\marcu\Desktop\VeterinariaMenu\VeterinariaMenu\obj\Debug\VeterinariaMenu.Form1.resources
+C:\Users\marcu\Desktop\VeterinariaMenu\VeterinariaMenu\obj\Debug\VeterinariaMenu.Mascota.resources
+C:\Users\marcu\Desktop\VeterinariaMenu\VeterinariaMenu\obj\Debug\VeterinariaMenu.Properties.Resources.resources
+C:\Users\marcu\Desktop\VeterinariaMenu\VeterinariaMenu\obj\Debug\VeterinariaMenu.Turnos.resources
+C:\Users\marcu\Desktop\VeterinariaMenu\VeterinariaMenu\obj\Debug\VeterinariaMenu.Veterinario.resources
+C:\Users\marcu\Desktop\VeterinariaMenu\VeterinariaMenu\obj\Debug\VeterinariaMenu.csproj.GenerateResource.cache
+C:\Users\marcu\Desktop\VeterinariaMenu\VeterinariaMenu\obj\Debug\VeterinariaMenu.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Desktop\VeterinariaMenu\VeterinariaMenu\obj\Debug\VeterinariaMenu.exe
+C:\Users\marcu\Desktop\VeterinariaMenu\VeterinariaMenu\obj\Debug\VeterinariaMenu.pdb
